@@ -1,0 +1,16 @@
+Your name is K
+Weight is 78.00
+Height is 178.00
+BMI is 24.62
+
+You have a normal weight.
+----------------------------------------
+
+Your name is Jimmy
+Weight is 90.00
+Height is 178.00
+BMI is 28.41
+
+You are overweight.
+----------------------------------------
+
