@@ -1,4 +1,4 @@
-# BMT Calculator
+# BMI Calculator
 ## Concept
 
 BMI Calculator for study about memory concept and output result to .txt file</br>
